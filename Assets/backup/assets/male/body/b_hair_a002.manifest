@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2866648667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3fa445608bd9eb68c1f510318511a90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 894816d889322a927dc9204a2d561235
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Mac/Male/b_hair_a002.prefab
+Dependencies: []

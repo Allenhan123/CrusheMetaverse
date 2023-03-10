@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3899040839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88a59a5e49e429ea92944db371a3fe99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Mac/Male/b_body_a002.png
+Dependencies: []

@@ -1,0 +1,81 @@
+{
+  "faceBlendShapeDatas" : [
+    {
+	"blendshapeIndex" : 2,
+	"blendValue" : "0f"
+    },
+    {
+	"blendshapeIndex" : 6,
+	"blendValue" : "100f"
+    },
+    {
+	"blendshapeIndex" : 12,
+	"blendValue" : "100f"
+    },
+    {
+	"blendshapeIndex" : 16,
+	"blendValue" : "100f"
+    }
+
+  ],
+  "feature" : [
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/haircut/",
+      "version" : "1",
+      "type" : "102",
+      "name" : "b_hair_a002",
+      "color" : "HSB(333,0.400,0.910)"
+    },
+    {
+      "path" : "",
+      "version" : "1",
+      "type" : "114",
+      "name" : "",
+      "color" : "HSB(32,0.200,0.930),HSB(132,0.210,0.230)"
+    },
+    {
+      "path" : "",
+      "version" : "1",
+      "type" : "101",
+      "name" : "",
+      "color" : "HSB(32,0.200,0.930)"
+    },
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/eyebrow/",
+      "version" : "1",
+      "type" : "104",
+      "name" : "b_eyebrow_a003",
+      "color" : "HSB(333,0.400,0.860)"
+    },
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/eyeball/",
+      "version" : "1",
+      "type" : "107",
+      "name" : "b_eyes_a002",
+      "color" : "HSB(0,0,0)"
+    },
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/body/",
+      "version" : "1",
+      "type" : "100",
+      "name" : "b_body_a002",
+      "color" : "HSB(0,0,1)"
+    },
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/bodytattoo/",
+      "version" : "1",
+      "type" : "115",
+      "name" : "b_bodytattoo_001",
+      "color" : "HSB(0,0,0)"
+    },
+    {
+      "path" : "/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/ear/",
+      "version" : "1",
+      "type" : "106",
+      "name" : "b_ears_a002",
+      "color" : "HSB(32,0.200,0.930)"
+    }
+  ],
+  "custom" : "1",
+  "gender" : 1
+}

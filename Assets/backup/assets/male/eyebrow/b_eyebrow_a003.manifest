@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3474510192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e1fbff35858238c2d8a42ccb6b764a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 894816d889322a927dc9204a2d561235
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Mac/Male/b_eyebrow_a003.prefab
+Dependencies: []

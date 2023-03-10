@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 190547289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02c95b30532e552e4ece3284afb73b82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Mac/Male/b_bodytattoo_001.tga
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1798719203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9f365a6d1d59d45fc3d66bd88eb63a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/Mac/Female/b_eyes_a002.tga
+Dependencies: []
