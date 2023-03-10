@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{626DB2EA-45A1-52A8-CEA9-E8787A975BE3}</ProjectGuid>
+    <ProjectGuid>{3037FFC7-B08E-99BA-FC99-1A23CF451B32}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AssetBundleBrowser.Editor</AssemblyName>

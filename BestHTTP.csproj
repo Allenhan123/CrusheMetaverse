@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F90E9239-B058-91D8-5FC3-0A6BE5C0571F}</ProjectGuid>
+    <ProjectGuid>{A424183D-A1F8-B197-4348-1A65E33F9900}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>BestHTTP</AssemblyName>

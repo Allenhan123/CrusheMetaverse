@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1A98DCEF-A331-7697-35F0-905708E5B14B}</ProjectGuid>
+    <ProjectGuid>{5C329CF5-2842-60AE-2D00-0FAD8404BE0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -858,43 +858,43 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{BF627C46-3809-9DB2-2E3A-4EB5118A649D}</Project>
+      <Project>{4984CE37-CD34-9732-64FB-D966527EF96E}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="QFramework.CoreKit.csproj">
-      <Project>{37D459A2-FEDD-F5F7-95E2-E1B3A01CE41D}</Project>
+      <Project>{60D0CEA0-3C32-D707-F816-FA5B9E437659}</Project>
       <Name>QFramework.CoreKit</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AssetBundleBrowser.Editor.csproj">
-      <Project>{626DB2EA-45A1-52A8-CEA9-E8787A975BE3}</Project>
+      <Project>{3037FFC7-B08E-99BA-FC99-1A23CF451B32}</Project>
       <Name>Unity.AssetBundleBrowser.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="BestHTTP.csproj">
-      <Project>{F90E9239-B058-91D8-5FC3-0A6BE5C0571F}</Project>
+      <Project>{A424183D-A1F8-B197-4348-1A65E33F9900}</Project>
       <Name>BestHTTP</Name>
     </ProjectReference>
     <ProjectReference Include="ResKit.csproj">
-      <Project>{9B0795E6-706F-B124-D27E-E06555EE7D8E}</Project>
+      <Project>{31F32C13-F1DC-777D-2450-9AF8B9DD204A}</Project>
       <Name>ResKit</Name>
     </ProjectReference>
     <ProjectReference Include="UIKit.csproj">
-      <Project>{6AE18E26-A9E9-E5E5-D9E3-01495FA242FA}</Project>
+      <Project>{A7538392-0ECA-DF62-3197-4CEDDC67E7D9}</Project>
       <Name>UIKit</Name>
     </ProjectReference>
     <ProjectReference Include="ResKit.Editor.csproj">
-      <Project>{F9BC2D80-22FA-CFC6-320D-65CCA373C847}</Project>
+      <Project>{19FDEAC6-8234-70D9-2A5B-AD06710E26C5}</Project>
       <Name>ResKit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="AudioKit.csproj">
-      <Project>{839321A3-FFE2-67B8-796C-B64D4904E8DF}</Project>
+      <Project>{8A4370A6-D2E1-F053-F5DE-299C0919953A}</Project>
       <Name>AudioKit</Name>
     </ProjectReference>
     <ProjectReference Include="UIKit.Editor.csproj">
-      <Project>{6EBCF7D1-9729-2295-375A-8C0BF6A309E3}</Project>
+      <Project>{67CA3C0A-4393-7D8E-E08D-DE761238263F}</Project>
       <Name>UIKit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="QFramework.csproj">
-      <Project>{D0DD2098-F0F4-D884-CE32-9CAC5E53AD21}</Project>
+      <Project>{06E4A9D9-A764-E847-DA8A-B84556A31124}</Project>
       <Name>QFramework</Name>
     </ProjectReference>
   </ItemGroup>

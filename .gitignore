@@ -17,3 +17,5 @@ CrusheMetaverseGitHub/Logs/
 CrusheMetaverseGitHub/Library/
 CrusheMetaverseGitHub/Temp/
 
+*.log
+

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9B0795E6-706F-B124-D27E-E06555EE7D8E}</ProjectGuid>
+    <ProjectGuid>{31F32C13-F1DC-777D-2450-9AF8B9DD204A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>ResKit</AssemblyName>
@@ -850,11 +850,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="QFramework.csproj">
-      <Project>{D0DD2098-F0F4-D884-CE32-9CAC5E53AD21}</Project>
+      <Project>{06E4A9D9-A764-E847-DA8A-B84556A31124}</Project>
       <Name>QFramework</Name>
     </ProjectReference>
     <ProjectReference Include="QFramework.CoreKit.csproj">
-      <Project>{37D459A2-FEDD-F5F7-95E2-E1B3A01CE41D}</Project>
+      <Project>{60D0CEA0-3C32-D707-F816-FA5B9E437659}</Project>
       <Name>QFramework.CoreKit</Name>
     </ProjectReference>
   </ItemGroup>

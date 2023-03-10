@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D0DD2098-F0F4-D884-CE32-9CAC5E53AD21}</ProjectGuid>
+    <ProjectGuid>{06E4A9D9-A764-E847-DA8A-B84556A31124}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>QFramework</AssemblyName>
