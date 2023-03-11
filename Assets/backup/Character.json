@@ -1,19 +1,19 @@
 {
   "faceBlendShapeDatas" : [
     {
-	"blendshapeIndex" : 2,
-	"blendValue" : "0f"
-    },
-    {
-	"blendshapeIndex" : 6,
+	"blendshapeIndex" : 62,
 	"blendValue" : "100f"
     },
     {
-	"blendshapeIndex" : 12,
+	"blendshapeIndex" : 66,
 	"blendValue" : "100f"
     },
     {
-	"blendshapeIndex" : 16,
+	"blendshapeIndex" : 72,
+	"blendValue" : "100f"
+    },
+    {
+	"blendshapeIndex" : 76,
 	"blendValue" : "100f"
     }
 

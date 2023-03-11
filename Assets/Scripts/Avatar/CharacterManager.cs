@@ -259,7 +259,7 @@ namespace NUWA.Character
                 Debug.LogFormat("updateCharacterFeature featureUpdater is null");
                 return;
             }
-            if (featureType == FeatureType.skinColor || featureType == FeatureType.hairColor || featureType == FeatureType.eyebrowColor)
+            if (featureType == FeatureType.skinColor || featureType == FeatureType.hairColor || featureType == FeatureType.eyebrowColor || featureType == FeatureType.mouth)
             {
                 featureUpdater.UpdateFeature(null, handleUpdateComplete);
                 return;

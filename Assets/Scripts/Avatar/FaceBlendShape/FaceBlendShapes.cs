@@ -57,7 +57,7 @@ namespace NUWA.Character
             int earBlendIndex = 0;
             if (sex == 1)
             {
-                earBlendIndex = faceBlend[2] - 9;
+                earBlendIndex = faceBlend[2] - 10;
             }
             else
             {

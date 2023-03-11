@@ -111,8 +111,16 @@ namespace NUWA.Character
         /// 换嘴唇
         public void ChangeMouth()
         {
-            string jsonData = @"{'type':103, 'name':'b_mouth_a001', path:'/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/mouth/', 'color':'HSB(0, 0, 0, 1.000))'}";
-            characterSetup.ChangeFeatureWithJson(jsonData);
+            //string jsonData = @"{'type':103, 'name':'b_mouth_a001', path:'/Users/handongqiang/boo/NXGen/BooUniverse/CrusheMetaverse/Assets/backup/assets/male/mouth/', 'color':'HSB(0, 0, 0, 1.000))'}";
+            //characterSetup.ChangeFeatureWithJson(jsonData);
+
+            Hashtable myHash = new Hashtable();//创建一个Hashtable实例
+            myHash["type"] = 103;
+            myHash["name"] = "";
+            myHash["path"] = "";
+            myHash["color"] = getColor();
+            string jsonString = JsonConvert.SerializeObject(myHash);
+            characterSetup.ChangeFeatureWithJson(jsonString);
         }
 
         /// 换纹身

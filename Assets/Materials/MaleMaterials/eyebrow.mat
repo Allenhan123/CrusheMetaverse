@@ -53,12 +53,24 @@ Material:
         m_Texture: {fileID: 2800000, guid: 31485dcb4e51b450d85c6ff39b60f479, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MetallicTx:
+        m_Texture: {fileID: 2800000, guid: 31485dcb4e51b450d85c6ff39b60f479, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTx:
+        m_Texture: {fileID: 2800000, guid: 482842c6bf5a74c3ebdf37c012bcd839, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmootthTx:
+        m_Texture: {fileID: 2800000, guid: b61babaef66584a7cb67df506b603f5c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -112,7 +124,7 @@ Material:
     - _BaseColor: {r: 0.2924528, g: 0.21933961, b: 0.21933961, a: 1}
     - _Color: {r: 0.29245278, g: 0.21933958, b: 0.21933958, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EyebrowColor: {r: 0.86, g: 0.51600003, b: 0.6707999, a: 1}
+    - _EyebrowColor: {r: 0.7169812, g: 0.503916, b: 0.59942794, a: 1}
     - _HairColor: {r: 0.2924528, g: 0.22761658, b: 0.22761658, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
